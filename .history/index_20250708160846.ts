@@ -1,0 +1,9 @@
+// const pName: string = "tv"
+// console.log("hello", pName)
+
+interface Book {
+  
+}
+interface BooksStore{
+
+}
